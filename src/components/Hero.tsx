@@ -33,7 +33,7 @@ export function Hero() {
         Empowering users with simple domain names, JibID enhances security and user experience in the blockchain ecosystem.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button href="/app">Go to App</Button>
+      <Button href="/app">Go to App</Button>
       </div>
       {/* <div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
