@@ -6,11 +6,11 @@ import { type Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - TaxPal',
-    default: 'TaxPal - Accounting made simple for small businesses',
+    template: '%s - JibID',
+    default: 'JibID - Your Blockchain Passport to Simplicity.',
   },
   description:
-    'Most bookkeeping software is accurate, but hard to use. We make the opposite trade-off, and hope you don’t get audited.',
+    'Empowering users with simple domain names, JibID enhances security and user experience in the blockchain ecosystem.',
 }
 
 const inter = Inter({
