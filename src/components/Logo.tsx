@@ -6,6 +6,6 @@ interface LogoProps {
 
 export function Logo({ className }: LogoProps) {
   return (
-    <img src={jiblogo.src} alt="JibID Logo" className={`w-full md:w-24 lg:w-32 ${className}`}/>
+    <img src={jiblogo.src} alt="JibID Logo" className={`${className}`}/>
   );
 }
